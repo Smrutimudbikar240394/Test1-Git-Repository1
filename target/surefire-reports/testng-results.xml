@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-20T09:07:46 IST" name="Suite" finished-at="2024-12-20T09:07:58 IST" duration-ms="12403">
+  <suite started-at="2024-12-20T11:42:51 IST" name="Suite" finished-at="2024-12-20T11:43:02 IST" duration-ms="11775">
     <groups>
     </groups>
-    <test started-at="2024-12-20T09:07:46 IST" name="Test" finished-at="2024-12-20T09:07:58 IST" duration-ms="12403">
+    <test started-at="2024-12-20T11:42:51 IST" name="Test" finished-at="2024-12-20T11:43:02 IST" duration-ms="11775">
       <class name="Module1_LoginTest.SwagLabLoginTest">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T09:07:46 IST" name="openBrowser" finished-at="2024-12-20T09:07:50 IST" duration-ms="3773" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T11:42:51 IST" name="openBrowser" finished-at="2024-12-20T11:42:54 IST" duration-ms="3210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T09:07:50 IST" name="loginToApp" finished-at="2024-12-20T09:07:53 IST" duration-ms="2697" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T11:42:54 IST" name="loginToApp" finished-at="2024-12-20T11:42:57 IST" duration-ms="2571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="verifyLogo()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T09:07:53 IST" name="verifyLogo" finished-at="2024-12-20T09:07:54 IST" duration-ms="919" status="PASS">
+        <test-method signature="verifyLogo()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T11:42:57 IST" name="verifyLogo" finished-at="2024-12-20T11:42:57 IST" duration-ms="906" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogo -->
-        <test-method is-config="true" signature="logoutFromApp(org.testng.ITestResult)[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T09:07:54 IST" name="logoutFromApp" finished-at="2024-12-20T09:07:58 IST" duration-ms="4321" status="PASS">
+        <test-method is-config="true" signature="logoutFromApp(org.testng.ITestResult)[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T11:42:57 IST" name="logoutFromApp" finished-at="2024-12-20T11:43:02 IST" duration-ms="4268" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutFromApp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T09:07:58 IST" name="closeBrowser" finished-at="2024-12-20T09:07:58 IST" duration-ms="613" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Module1_LoginTest.SwagLabLoginTest@4a94ee4]" started-at="2024-12-20T11:43:02 IST" name="closeBrowser" finished-at="2024-12-20T11:43:02 IST" duration-ms="765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
